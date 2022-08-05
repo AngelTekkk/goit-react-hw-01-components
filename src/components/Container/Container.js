@@ -1,4 +1,4 @@
-import PropTypes, { element } from 'prop-types';
+import PropTypes from 'prop-types';
 import s from 'components/Container/Container.module.css';
 
 function Container({ children }) {
